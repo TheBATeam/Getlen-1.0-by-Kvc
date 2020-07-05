@@ -1,0 +1,10 @@
+This getlen.exe extension, will return the length of string in the variable '%errorlevel%'...
+The String should be passed to it in 1st parameter ... e.g. getlen.exe "Hello World!!"
+
+Now, if you type... echo %errorlevel%
+It will show you 13 as result...
+
+About Getlen.exe:
+This cmd extension is prepared in C Language by Kvc... 
+
+#Kvc with #TheBATeam
